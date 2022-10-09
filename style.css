@@ -60,7 +60,7 @@ article:nth-child(4) img {
   outline: 2px solid hsl(264, 82%, 70%);
 }
 
-section {
+.top {
   display: flex;
 }
 
